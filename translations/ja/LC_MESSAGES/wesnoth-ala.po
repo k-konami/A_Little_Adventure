@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-03 19:07 UTC\n"
-"PO-Revision-Date: 2022-07-03 09:49+0900\n"
+"PO-Revision-Date: 2022-07-09 14:33+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -450,7 +450,7 @@ msgstr "Kssihiss を倒す"
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:215
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:69
 msgid "Death of $trapper_name"
-msgstr ""
+msgstr "$trapper_name の死"
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently:
@@ -595,7 +595,7 @@ msgstr "トカゲの首領を倒す"
 #. [note]
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:119
 msgid "The death of $trapper_name will no longer cause defeat."
-msgstr ""
+msgstr "$trapper_name の死は敗北条件ではなくなりました。"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:216
@@ -2335,43 +2335,31 @@ msgstr "奴と話をしてみよう、望みが何か尋ねてみる。"
 #. [message]: speaker=Glauco
 #. this is the farthest Glauco can advance:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:750
-#, fuzzy
-#| msgid ""
-#| "I'm the sergeant Glauco, military commander of the city of Amoran! I ask "
-#| "to speak with the warlord called Gan-Tarkas."
 msgid ""
 "I'm the grand marshal Glauco, military commander of the city of Amoran! I "
 "ask to speak with the warlord called Gan-Tarkas."
 msgstr ""
-"私は Glauco 軍曹、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
+"私は Glauco 大元帥、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
 "い。尋ねたいことがある。"
 
 #. [message]: speaker=Glauco
 #. "general" in the sense of the military rank; this is as far as Glauco has usually made it for me:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:758
-#, fuzzy
-#| msgid ""
-#| "I'm the sergeant Glauco, military commander of the city of Amoran! I ask "
-#| "to speak with the warlord called Gan-Tarkas."
 msgid ""
 "I'm the general Glauco, military commander of the city of Amoran! I ask to "
 "speak with the warlord called Gan-Tarkas."
 msgstr ""
-"私は Glauco 軍曹、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
+"私は Glauco 将軍、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
 "い。尋ねたいことがある。"
 
 #. [message]: speaker=Glauco
 #. if the player hasn't been using Glauco much for combat, he might still be a lieutenant (has happened to me before):
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:766
-#, fuzzy
-#| msgid ""
-#| "I'm the sergeant Glauco, military commander of the city of Amoran! I ask "
-#| "to speak with the warlord called Gan-Tarkas."
 msgid ""
 "I'm the lieutenant Glauco, military commander of the city of Amoran! I ask "
 "to speak with the warlord called Gan-Tarkas."
 msgstr ""
-"私は Glauco 軍曹、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
+"私は Glauco 副官、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
 "い。尋ねたいことがある。"
 
 #. [message]: speaker=Glauco
